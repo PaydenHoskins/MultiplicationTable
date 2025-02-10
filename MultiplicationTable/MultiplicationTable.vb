@@ -1,7 +1,8 @@
 ﻿'Payden Hoskins
 'RCET2265
 'Spring 2025
-'Say My Name... Again
+'MultiplicationTable
+'https://github.com/PaydenHoskins/MultiplicationTable.git
 
 Option Explicit On
 Option Strict On
